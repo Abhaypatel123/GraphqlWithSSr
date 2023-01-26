@@ -1,0 +1,13 @@
+.product_card {
+    width: 71rem;
+    margin: auto;
+}
+
+.product-cards_item {
+    width: 100%;
+}
+
+.card_img_tag {
+    height: 100%;
+    width: 100%;
+}
